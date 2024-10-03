@@ -157,7 +157,7 @@ MonoBehaviour:
   quitBtn: {fileID: 0}
   playScene: Assets/VNCreator/_Demo/Scenes/PlayScene.unity
   optionsMenu: {fileID: 0}
-  mainMenu: {fileID: 0}
+  mainMenu: {fileID: 952535320}
 --- !u!4 &616690235
 Transform:
   m_ObjectHideFlags: 0

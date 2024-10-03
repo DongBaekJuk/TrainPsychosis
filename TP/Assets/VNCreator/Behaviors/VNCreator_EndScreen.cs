@@ -12,6 +12,7 @@ namespace VNCreator
         public Button mainMenuButton;
         [Scene]
         public string mainMenu;
+        public string k;
 
         void Start()
         {
@@ -28,6 +29,11 @@ namespace VNCreator
         void MainMenu()
         {
             SceneManager.LoadScene(mainMenu, LoadSceneMode.Single);
+        }
+
+        void connect()
+        {
+            SceneManager.LoadScene(k,LoadSceneMode.Single);
         }
     }
 }
