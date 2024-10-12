@@ -1,0 +1,7 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:VisualElement style="flex-grow: 1; position: absolute; height: 10%; width: 10%; background-color: rgba(135, 8, 8, 0); top: 89px; left: 128px; display: flex; visibility: visible; overflow: visible; -unity-background-image-tint-color: rgb(183, 18, 18); -unity-background-scale-mode: stretch-to-fill; background-image: url(&quot;project://database/Assets/UI%20Toolkit/UnityThemes/UnityDefaultRuntimeTheme.tss?fileID=4154780841294389669&amp;guid=7bb01b8292638bf47a5936e6487a16af&amp;type=3#arrow-down&quot;);">
+        <ui:VisualElement style="flex-grow: 1; background-image: url(&quot;project://database/Assets/UI%20Toolkit/UnityThemes/UnityDefaultRuntimeTheme.tss?fileID=4154780841294389669&amp;guid=7bb01b8292638bf47a5936e6487a16af&amp;type=3#arrow-down&quot;); -unity-background-image-tint-color: rgb(45, 45, 45);" />
+        <ui:VisualElement style="flex-grow: 1;" />
+        <ui:VisualElement style="flex-grow: 1; flex-direction: column-reverse; background-color: rgba(45, 45, 45, 0); background-image: url(&quot;project://database/Assets/UI%20Toolkit/UnityThemes/UnityDefaultRuntimeTheme.tss?fileID=4154780841294389669&amp;guid=7bb01b8292638bf47a5936e6487a16af&amp;type=3#arrow-down&quot;);" />
+    </ui:VisualElement>
+</ui:UXML>
